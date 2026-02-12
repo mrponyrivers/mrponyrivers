@@ -3,17 +3,18 @@
 I build small, practical tools with clean UIs and “instant demo” flows (sample inputs included).
 
 ## Live demos
-- 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)
-  https://mrponyrivers-itinerary-calendar-builder.streamlit.app/
+- 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)  
+  **Live:** https://mrponyrivers-itinerary-calendar-builder.streamlit.app/ • **Repo:** <PASTE_REPO_URL>
 
 - 📄 **RAG PDF Assistant** — local PDF Q&A with source transparency + page citations  
-  https://mrponyrivers-rag-pdf-assistant.streamlit.app/
+  **Live:** https://mrponyrivers-rag-pdf-assistant.streamlit.app/ • **Repo:** <PASTE_REPO_URL>
 
 - 📄 **Resume Extractor** — extract structured fields from PDF/TXT → JSON + Markdown report  
-  https://mrponyrivers-resume-extractor.streamlit.app/
+  **Live:** https://mrponyrivers-resume-extractor.streamlit.app/ • **Repo:** <PASTE_REPO_URL>
 
 - 📈 **Odds EV Calculator** — implied probability, fair odds, EV, and Kelly stake sizing  
-  https://odds-ev-calculator-ponyrivers.streamlit.app/
+  **Live:** https://odds-ev-calculator-ponyrivers.streamlit.app/ • **Repo:** <PASTE_REPO_URL>
+
 
 ## What I focus on
 - **Local-first** workflows (no external LLM required for core functionality)
