@@ -1,4 +1,5 @@
 # Pony Rivers — Python + Streamlit Portfolio
+![Demo](assets/demo.gif)
 
 I build small, practical tools with clean UIs and “instant demo” flows (sample inputs included).
 
