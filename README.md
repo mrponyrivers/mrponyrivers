@@ -1,7 +1,5 @@
 # Pony Rivers — Python + Streamlit Portfolio
 
-<img src="https://github.com/mrponyrivers/itinerary-calendar-builder/blob/main/assets/input1.png" width="900" />
-
 I build small, practical tools with clean UIs and “instant demo” flows (sample inputs included).
 
 ## Live demos
