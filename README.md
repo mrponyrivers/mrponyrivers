@@ -5,20 +5,20 @@ I build small, practical tools with clean UIs and “instant demo” flows (samp
 ## Live demos
 
 - 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)<br>
-  **Live:** https://mrponyrivers-itinerary-calendar-builder.streamlit.app/<br>
-  **Repo:** https://github.com/mrponyrivers/itinerary-calendar-builder
+  **Live:** [Open demo](https://mrponyrivers-itinerary-calendar-builder.streamlit.app/)<br>
+  **Repo:** [View code](https://github.com/mrponyrivers/itinerary-calendar-builder)
 
 - 📄 **RAG PDF Assistant** — local PDF Q&A with source transparency + page citations<br>
-  **Live:** https://mrponyrivers-rag-pdf-assistant.streamlit.app/<br>
-  **Repo:** https://github.com/mrponyrivers/rag-pdf-assistant
+  **Live:** [Open demo](https://mrponyrivers-rag-pdf-assistant.streamlit.app/)<br>
+  **Repo:** [View code](https://github.com/mrponyrivers/rag-pdf-assistant)
 
 - 📄 **Resume Extractor** — extract structured fields from PDF/TXT → JSON + Markdown report<br>
-  **Live:** https://mrponyrivers-resume-extractor.streamlit.app/<br>
-  **Repo:** https://github.com/mrponyrivers/resume-extractor
+  **Live:** [Open demo](https://mrponyrivers-resume-extractor.streamlit.app/)<br>
+  **Repo:** [View code](https://github.com/mrponyrivers/resume-extractor)
 
 - 📈 **Odds EV Calculator** — implied probability, fair odds, EV, and Kelly stake sizing<br>
-  **Live:** https://odds-ev-calculator-ponyrivers.streamlit.app/<br>
-  **Repo:** https://github.com/mrponyrivers/odds-ev-calculator
+  **Live:** [Open demo](https://odds-ev-calculator-ponyrivers.streamlit.app/)<br>
+  **Repo:** [View code](https://github.com/mrponyrivers/odds-ev-calculator)
 
 ## What I focus on
 - **Local-first** workflows (no external LLM required for core functionality)
