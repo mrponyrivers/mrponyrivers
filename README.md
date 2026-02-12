@@ -1,6 +1,8 @@
 # Pony Rivers — Python + Streamlit Portfolio
 ## Demo
-![Demo](./assets/demo.gif)
+<img src="https://raw.githubusercontent.com/mrponyrivers/mrponyrivers/main/assets/demo.gif" width="900" />
+
+
 
 
 
