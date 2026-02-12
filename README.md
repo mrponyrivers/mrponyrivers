@@ -3,6 +3,9 @@
 I build small, practical tools with clean UIs and “instant demo” flows (sample inputs included).
 
 ## Live demos
+- 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)
+  https://mrponyrivers-itinerary-calendar-builder.streamlit.app/
+
 - 📄 **RAG PDF Assistant** — local PDF Q&A with source transparency + page citations  
   https://mrponyrivers-rag-pdf-assistant.streamlit.app/
 
@@ -14,8 +17,8 @@ I build small, practical tools with clean UIs and “instant demo” flows (samp
 
 ## What I focus on
 - **Local-first** workflows (no external LLM required for core functionality)
-- **Clear outputs** (downloads: CSV/JSON/Markdown)
-- **Recruiter-friendly demos** (works in 30 seconds with sample files)
+- **Clear outputs** (downloads: ICS/CSV/JSON/Markdown)
+- **Recruiter-friendly demos** (works in ~30 seconds with sample input/files)
 
 ## Tech
 Python • Streamlit • Pandas • PyPDF • sentence-transformers • embeddings retrieval
