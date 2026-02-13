@@ -1,7 +1,9 @@
 # Pony Rivers — Python + Streamlit Portfolio
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+
 ## Demo
 <img src="./assets/demo.gif" width="900" />
-
 
 
 
