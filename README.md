@@ -39,3 +39,4 @@ Python • Streamlit • pandas • pdfplumber • openpyxl • PyPDF • senten
 
 ## Contact
 GitHub: https://github.com/mrponyrivers
+uworshipme888@gmail.com
