@@ -38,5 +38,5 @@ I build small, practical tools with clean UIs and “instant demo” flows (samp
 Python • Streamlit • pandas • pdfplumber • openpyxl • PyPDF • sentence-transformers • embeddings retrieval
 
 ## Contact
-GitHub: https://github.com/mrponyrivers
-uworshipme888@gmail.com
+GitHub: https://github.com/mrponyrivers <br>
+Email: uworshipme888@gmail.com
