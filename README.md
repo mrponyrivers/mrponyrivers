@@ -5,10 +5,6 @@
 ## Demo
 <img src="./assets/demo.gif" width="900" />
 
-
-
-
-
 I build small, practical tools with clean UIs and “instant demo” flows (sample inputs included).
 
 ## Live demos
@@ -29,13 +25,17 @@ I build small, practical tools with clean UIs and “instant demo” flows (samp
   **Live:** [Open demo](https://odds-ev-calculator-ponyrivers.streamlit.app/)<br>
   **Repo:** [View code](https://github.com/mrponyrivers/odds-ev-calculator)
 
+- 🧾 **Tax Buckets** — paste/upload statements → auto-categorize with rules → review → export (Full + QuickBooks bank feed)<br>
+  **Live:** [Open demo](https://mrponyrivers-tax-buckets-app.streamlit.app/)<br>
+  **Repo:** [View code](https://github.com/mrponyrivers/tax-buckets-app)
+
 ## What I focus on
 - **Local-first** workflows (no external LLM required for core functionality)
-- **Clear outputs** (downloads: ICS/CSV/JSON/Markdown)
+- **Clear outputs** (downloads: ICS/CSV/JSON/Markdown/XLSX)
 - **Recruiter-friendly demos** (works in ~30 seconds with sample input/files)
 
 ## Tech
-Python • Streamlit • Pandas • PyPDF • sentence-transformers • embeddings retrieval
+Python • Streamlit • pandas • pdfplumber • openpyxl • PyPDF • sentence-transformers • embeddings retrieval
 
 ## Contact
 GitHub: https://github.com/mrponyrivers
