@@ -29,7 +29,7 @@ I build small, practical tools with clean UIs and “instant demo” flows (samp
   **Live:** [Open demo](https://mrponyrivers-tax-buckets-app.streamlit.app/)<br>
   **Repo:** [View code](https://github.com/mrponyrivers/tax-buckets-app)
 
-- 💾 **Portfolio Assets Finder — structured search → review results → export organized run folders (public web + IG links-only)<br>
+- 💾 **Portfolio Assets Finder** — structured search → review results → export organized run folders (public web + IG links-only)<br>
 Live: [Open demo](PASTE_YOUR_STREAMLIT_URL_HERE)<br>
 Repo: [View code](https://github.com/mrponyrivers/portfolio_asset_finder)
 
