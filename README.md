@@ -5,9 +5,27 @@
 ## Demo
 <img src="./assets/demo.gif" width="900" />
 
-I build small, practical tools with clean UIs and “instant demo” flows (sample inputs included).
+AI Workflow Engineer (early career)
 
-## Live demos
+Paris, France • Python • Streamlit • Workflow Automation • RAG
+
+I started my AI career journey in **October 2025**. I build small, practical tools in **Python** with clean **Streamlit** UIs — designed to demo in under a minute (sample inputs included).  
+Currently studying **Harvard edX**: CS50’s Introduction to Computer Science + CS50’s Introduction to Artificial Intelligence with Python. 
+---
+
+## Start here
+
+### 1) Portfolio Assets Finder + Organizer
+Structured search → review results → export timestamped run folders (CSV/JSON), optional downloads, plus an Instagram caption pack (links-only by default).  
+Repo: https://github.com/mrponyrivers/portfolio_asset_finder
+
+### 2) Tax Buckets
+Categorizes bank statements into business/personal/tax buckets with clean exports for reporting and accountants.  
+Repo: https://github.com/mrponyrivers/tax-buckets-app
+
+---
+
+## Other shipped apps-Live demos
 
 - 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)<br>
   **Live:** [Open demo](https://mrponyrivers-itinerary-calendar-builder.streamlit.app/)<br>
@@ -37,7 +55,17 @@ Repo: [View code](https://github.com/mrponyrivers/portfolio_asset_finder)
 - **Local-first** workflows (no external LLM required for core functionality)
 - **Clear outputs** (downloads: ICS/CSV/JSON/Markdown/XLSX)
 - **Recruiter-friendly demos** (works in ~30 seconds with sample input/files)
+- Turning messy real-world inputs into reliable outputs (structured data, exports, repeatable workflows)
+- Local-first workflows, clear outputs, and fast iteration
+- Shipping “portfolio-ready” apps: docs, demo flow, and deployment
+---
 
+## Skills
+
+Python • Streamlit • Git/GitHub • Workflow Automation • ETL • API Integration • Data Cleaning  
+CSV/JSON Exports • File-system Pipelines • RAG (Document Q&A) • Deployment (Streamlit Cloud)
+
+---
 ## Tech
 Python • Streamlit • pandas • pdfplumber • openpyxl • PyPDF • sentence-transformers • embeddings retrieval
 
