@@ -13,6 +13,11 @@ I started my AI career journey in **October 2025**. I build small, practical too
 Currently studying **Harvard edX**: CS50’s Introduction to Computer Science + CS50’s Introduction to Artificial Intelligence with Python. 
 ---
 
+## Demo video
+[![Watch the demo](docs/demo-thumbnail.png)](https://youtu.be/MYZJR9mZTZ0)
+
+
+---
 ## Start here
 
 ### 1) Portfolio Assets Finder + Organizer
