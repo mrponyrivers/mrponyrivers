@@ -43,4 +43,4 @@ Python • Streamlit • pandas • pdfplumber • openpyxl • PyPDF • senten
 
 ## Contact
 GitHub: https://github.com/mrponyrivers <br>
-Email: mrponyrivers.develop@gmail.com
+
