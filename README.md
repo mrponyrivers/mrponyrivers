@@ -14,6 +14,7 @@ Currently studying **Harvard edX**: CS50’s Introduction to Computer Science + 
 ---
 
 ## Demo video
+On YouTube:
 [![Watch the demo](docs/demo-thumbnail.png)](https://youtu.be/MYZJR9mZTZ0)
 
 
