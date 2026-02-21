@@ -5,10 +5,11 @@
 ## Demo
 <img src="./assets/demo.gif" width="900" />
 
-**AI Workflow Engineer (early career)**  
-Paris, France • Python • Streamlit • Workflow Automation • RAG
+**AI Workflow Engineer (early career)**  Paris, France<br>
+• Python • Streamlit • Workflow Automation • RAG
 
 I started my AI career journey in **October 2025**. I build small, practical tools in **Python** with clean **Streamlit** UIs — designed to demo in under a minute (sample inputs included).  
+
 Currently studying **Harvard edX**: CS50’s Introduction to Computer Science + CS50’s Introduction to Artificial Intelligence with Python.
 
 ---
@@ -28,11 +29,14 @@ If you watch a demo, feedback is welcome — I’m improving clarity and demo fl
 
 ### 1) Portfolio Assets Finder + Organizer
 Structured search → review results → export timestamped run folders (CSV/JSON), optional downloads, plus an Instagram caption pack (links-only by default).  
+**Live:** https://mrponyrivers-portfolio-asset-finder.streamlit.app/  
 **Repo:** https://github.com/mrponyrivers/portfolio_asset_finder
 
 ### 2) Tax Buckets
 Categorizes bank statements into business/personal/tax buckets with clean exports for reporting and accountants.  
+**Live:** https://mrponyrivers-tax-buckets-app.streamlit.app/  
 **Repo:** https://github.com/mrponyrivers/tax-buckets-app
+
 
 ---
 
