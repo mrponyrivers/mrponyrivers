@@ -42,6 +42,11 @@ Categorizes bank statements into business/personal/tax buckets with clean export
 
 ## Other shipped apps (live demos)
 
+- 🎯 **Bet Decision Trainer** — practice betting fundamentals: odds (decimal/American) → implied probability → edge/EV → Kelly sizing, plus Trainer drills + CSV backtesting with bankroll curve + drawdown  
+  **Live:** https://mrponyrivers-bet-decision-trainer.streamlit.app/  
+  **Repo:** https://github.com/mrponyrivers/bet-decision-trainer  
+  **Demo:** https://youtu.be/p4s3mTzzzJU
+
 - 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)  
   **Live:** https://mrponyrivers-itinerary-calendar-builder.streamlit.app/  
   **Repo:** https://github.com/mrponyrivers/itinerary-calendar-builder
