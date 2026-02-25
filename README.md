@@ -25,27 +25,28 @@ If you watch a demo, feedback is welcome — I’m improving clarity and demo fl
 
 ---
 
-## Start here
+## Featured projects (start here)
 
 ### 1) Portfolio Assets Finder + Organizer
 Structured search → review results → export timestamped run folders (CSV/JSON), optional downloads, plus an Instagram caption pack (links-only by default).  
 **Live:** https://mrponyrivers-portfolio-asset-finder.streamlit.app/  
-**Repo:** https://github.com/mrponyrivers/portfolio_asset_finder
+**Repo:** https://github.com/mrponyrivers/portfolio_asset_finder  
+**Demo:** https://youtu.be/MYZJR9mZTZ0  
 
 ### 2) Tax Buckets
 Categorizes bank statements into business/personal/tax buckets with clean exports for reporting and accountants.  
 **Live:** https://mrponyrivers-tax-buckets-app.streamlit.app/  
-**Repo:** https://github.com/mrponyrivers/tax-buckets-app
+**Repo:** https://github.com/mrponyrivers/tax-buckets-app  
 
+### 3) Bet Decision Trainer
+Practice betting fundamentals: odds (decimal/American) → implied probability → edge/EV → Kelly sizing, plus Trainer drills + CSV backtesting with bankroll curve + drawdown.  
+**Live:** https://mrponyrivers-bet-decision-trainer.streamlit.app/  
+**Repo:** https://github.com/mrponyrivers/bet-decision-trainer  
+**Demo:** https://youtu.be/p4s3mTzzzJU  
 
 ---
 
 ## Other shipped apps (live demos)
-
-- 🎯 **Bet Decision Trainer** — practice betting fundamentals: odds (decimal/American) → implied probability → edge/EV → Kelly sizing, plus Trainer drills + CSV backtesting with bankroll curve + drawdown  
-  **Live:** https://mrponyrivers-bet-decision-trainer.streamlit.app/  
-  **Repo:** https://github.com/mrponyrivers/bet-decision-trainer  
-  **Demo:** https://youtu.be/p4s3mTzzzJU
 
 - 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)  
   **Live:** https://mrponyrivers-itinerary-calendar-builder.streamlit.app/  
@@ -63,15 +64,11 @@ Categorizes bank statements into business/personal/tax buckets with clean export
   **Live:** https://odds-ev-calculator-ponyrivers.streamlit.app/  
   **Repo:** https://github.com/mrponyrivers/odds-ev-calculator
 
-- 🧾 **Tax Buckets** — paste/upload statements → auto-categorize with rules → review → export (Full + QuickBooks bank feed)  
-  **Live:** https://mrponyrivers-tax-buckets-app.streamlit.app/  
-  **Repo:** https://github.com/mrponyrivers/tax-buckets-app
-
 ---
 
 ## Featured case study
 
-- 🏈 **Sports odds + decisioning workflow (NFL POWERBOOK)** — end-to-end pipeline from odds normalization → implied probability → EV/Kelly decisioning → logging/settlement → CLV tracking.  
+- 🏈 **Sports odds + decisioning workflow (NFL POWERBOOK)** — end-to-end pipeline from odds normalization → implied probability → EV/Kelly decisioning → logging/settlement → CLV tracking  
   **Repo:** https://github.com/mrponyrivers/nfl-betting-engine-case-study  
   **Demo video:** https://www.youtube.com/watch?v=xI88nChjKWU
 
