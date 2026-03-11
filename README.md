@@ -44,7 +44,12 @@ Practice betting fundamentals: odds (decimal/American) → implied probability �
 **Repo:** https://github.com/mrponyrivers/bet-decision-trainer  
 **Demo:** https://youtu.be/p4s3mTzzzJU  
 
----
+📉 Line Shopping + CLV Tracker (Streamlit)
+Compare sportsbook odds, select best prices, and track CLV over time.
+
+Live App: https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
+Repo: https://github.com/mrponyrivers/line-shopping-clv-tracker
+Demo: https://youtu.be/ghMJ3IXv45Y---
 
 ## Other shipped apps (live demos)
 
