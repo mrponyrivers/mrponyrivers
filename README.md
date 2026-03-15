@@ -53,6 +53,28 @@ Demo: https://youtu.be/ghMJ3IXv45Y---
 
 ## Other shipped apps (live demos)
 
+-## 📘 Powerbook Training App  
+**Interactive Streamlit app for betting math drills**
+
+A training app built with **Python** and **Streamlit** to help users practice the core math behind betting markets and decision systems.
+
+**Skills trained:**
+- Implied Probability
+- Expected Value (EV)
+- No-Vig Probability
+
+**Features:**
+- interactive drills
+- instant answer checking
+- step-by-step explanations
+- score tracking
+- beginner-friendly practice flow
+
+**Links:**  
+🔗 **Live App:** https://mrponyrivers-powerbook-training-app.streamlit.app/  
+🔗 **Repo:** https://github.com/mrponyrivers/powerbook-training-app  
+🎥 **Demo:** PASTE-YOUR-VIDEO-LINK-HERE
+
 - 🗓️ **Itinerary Calendar Builder** — paste itinerary text → review/edit → export WORK/TRAVEL/HOLD `.ics` calendars (RunID batch delete)  
   **Live:** https://mrponyrivers-itinerary-calendar-builder.streamlit.app/  
   **Repo:** https://github.com/mrponyrivers/itinerary-calendar-builder
