@@ -53,7 +53,7 @@ Demo: https://youtu.be/ghMJ3IXv45Y---
 
 ## Other shipped apps (live demos)
 
-- **📘 Powerbook Training App  
+- 📘 Powerbook Training App  
 **Interactive Streamlit app for betting math drills**
 
 A training app built with **Python** and **Streamlit** to help users practice the core math behind betting markets and decision systems.
