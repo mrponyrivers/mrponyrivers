@@ -44,12 +44,17 @@ Practice betting fundamentals: odds (decimal/American) → implied probability �
 **Repo:** https://github.com/mrponyrivers/bet-decision-trainer  
 **Demo:** https://youtu.be/p4s3mTzzzJU  
 
-📉 Line Shopping + CLV Tracker (Streamlit)
+### 4) Line Shopping + CLV Tracker (Streamlit)
 Compare sportsbook odds, select best prices, and track CLV over time.
+**Live:** https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
+**Repo:** https://github.com/mrponyrivers/line-shopping-clv-tracker
+**Demo:** https://youtu.be/ghMJ3IXv45Y---
 
-Live App: https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
-Repo: https://github.com/mrponyrivers/line-shopping-clv-tracker
-Demo: https://youtu.be/ghMJ3IXv45Y---
+### 5) French Homework App
+Upload French homework .docx files → convert them into saved lessons, extracted exercises, flashcards, quiz mode, and exercise practice.
+**Live:** https://french-homework-app-mrponyrivers.streamlit.app/
+**Repo:** https://github.com/mrponyrivers/French-Homework-App
+**Demo:** https://youtu.be/Ut5uSW3ZgXI
 
 ## Other shipped apps (live demos)
 
