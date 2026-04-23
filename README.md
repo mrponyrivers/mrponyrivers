@@ -24,43 +24,42 @@ I’m documenting builds and walkthroughs on YouTube: **@PonyRivers-x7i**
 If you watch a demo, feedback is welcome — I’m improving clarity and demo flow with each release.
 
 ---
-
-## Featured projects (start here)
+## Featured Projects (Start Here)
 
 ### 1) Portfolio Assets Finder + Organizer
-Structured search → review results → export timestamped run folders (CSV/JSON), optional downloads, plus an Instagram caption pack (links-only by default).  
-**Live:** https://mrponyrivers-portfolio-asset-finder.streamlit.app/  
-**Repo:** https://github.com/mrponyrivers/portfolio_asset_finder  
-**Demo:** https://youtu.be/MYZJR9mZTZ0  
+Structured search → review results → export timestamped run folders (CSV/JSON), optional downloads, plus an Instagram caption pack (links-only by default).<br>
+**Live:** https://mrponyrivers-portfolio-asset-finder.streamlit.app/<br>
+**Repo:** https://github.com/mrponyrivers/portfolio_asset_finder<br>
+**Demo:** https://youtu.be/MYZJR9mZTZ0
 
 ### 2) Tax Buckets
-Categorizes bank statements into business/personal/tax buckets with clean exports for reporting and accountants.  
-**Live:** https://mrponyrivers-tax-buckets-app.streamlit.app/  
-**Repo:** https://github.com/mrponyrivers/tax-buckets-app  
+Categorizes bank statements into business/personal/tax buckets with clean exports for reporting and accountants.<br>
+**Live:** https://mrponyrivers-tax-buckets-app.streamlit.app/<br>
+**Repo:** https://github.com/mrponyrivers/tax-buckets-app
 
 ### 3) Bet Decision Trainer
-Practice betting fundamentals: odds (decimal/American) → implied probability → edge/EV → Kelly sizing, plus Trainer drills + CSV backtesting with bankroll curve + drawdown.  
-**Live:** https://mrponyrivers-bet-decision-trainer.streamlit.app/  
-**Repo:** https://github.com/mrponyrivers/bet-decision-trainer  
-**Demo:** https://youtu.be/p4s3mTzzzJU  
+Practice betting fundamentals: odds (decimal/American) → implied probability → edge/EV → Kelly sizing, plus trainer drills and CSV backtesting with bankroll curve + drawdown.<br>
+**Live:** https://mrponyrivers-bet-decision-trainer.streamlit.app/<br>
+**Repo:** https://github.com/mrponyrivers/bet-decision-trainer<br>
+**Demo:** https://youtu.be/p4s3mTzzzJU
 
-### 4) Line Shopping + CLV Tracker (Streamlit)
-Compare sportsbook odds, select best prices, and track CLV over time.
-**Live:** https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/
-**Repo:** https://github.com/mrponyrivers/line-shopping-clv-tracker
-**Demo:** https://youtu.be/ghMJ3IXv45Y---
+### 4) Line Shopping + CLV Tracker
+Compare sportsbook odds, select best prices, and track CLV over time.<br>
+**Live:** https://mrponyrivers-line-shopping-clv-tracker.streamlit.app/<br>
+**Repo:** https://github.com/mrponyrivers/line-shopping-clv-tracker<br>
+**Demo:** https://youtu.be/ghMJ3IXv45Y
 
 ### 5) French Homework App
-Upload French homework .docx files → convert them into saved lessons, extracted exercises, flashcards, quiz mode, and exercise practice.
-**Live:** https://french-homework-app-mrponyrivers.streamlit.app/
-**Repo:** https://github.com/mrponyrivers/French-Homework-App
+Upload French homework `.docx` files → convert them into saved lessons, extracted exercises, flashcards, quiz mode, and exercise practice.<br>
+**Live:** https://french-homework-app-mrponyrivers.streamlit.app/<br>
+**Repo:** https://github.com/mrponyrivers/French-Homework-App<br>
 **Demo:** https://youtu.be/Ut5uSW3ZgXI
 
 ### 6) French Pronunciation Coach
-Practice French words and phrases with microphone recording → transcribe speech, compare it to a target phrase, generate pronunciation audio, and get simple feedback with retry tracking. 
-**Live:** [https://french-pronunciation-coach-mrponyrivers.streamlit.app/] 
-**Repo:** https://github.com/mrponyrivers/french-pronunciation-coach 
-Demo: [https://youtu.be/GyMJLeAiiyI]
+Practice French words and phrases with microphone recording → transcribe speech, compare it to a target phrase, generate pronunciation audio, and get simple feedback with retry tracking.<br>
+**Live:** https://french-pronunciation-coach-mrponyrivers.streamlit.app/<br>
+**Repo:** https://github.com/mrponyrivers/french-pronunciation-coach<br>
+**Demo:** https://youtu.be/GyMJLeAiiyI
 
 ## Other shipped apps (live demos)
 
