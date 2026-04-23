@@ -56,6 +56,12 @@ Upload French homework .docx files → convert them into saved lessons, extracte
 **Repo:** https://github.com/mrponyrivers/French-Homework-App
 **Demo:** https://youtu.be/Ut5uSW3ZgXI
 
+### 6) French Pronunciation Coach
+Practice French words and phrases with microphone recording → transcribe speech, compare it to a target phrase, generate pronunciation audio, and get simple feedback with retry tracking. 
+**Live:** [https://french-pronunciation-coach-mrponyrivers.streamlit.app/] 
+**Repo:** https://github.com/mrponyrivers/french-pronunciation-coach 
+Demo: [https://youtu.be/GyMJLeAiiyI]
+
 ## Other shipped apps (live demos)
 
 - 📘 Powerbook Training App  
